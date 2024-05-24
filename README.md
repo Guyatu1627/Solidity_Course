@@ -1,2 +1,2 @@
 # Solidity_Course
-The objective is to complete the Learn Solidity course or the Smart Contract Development with Solidity course, depending on your preference, and include all course materials, codebases, screenshots of completed progress, and organize relevant resources in folders within the repository.
+The objective has been to complete the Learn Solidity course or the Smart Contract Development with Solidity course, depending on our preference, and to include all course materials, codebases, and screenshots of completed progress. We have organized relevant resources in folders within the repository.
